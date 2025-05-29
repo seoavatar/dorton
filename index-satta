@@ -1,0 +1,1568 @@
+<?php
+include 'config/database.php';
+date_default_timezone_set('Asia/Kolkata');
+?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Madhur Bazar | Madhur Satta Matka | Indian Matka | Madhur Matka</title>
+  
+  <meta name="description" content="Satta Matka madhur bazar satta matka expert super fast result Madhur Matka madhur bazar result indian matka Madhur Satta Matka Kalyan matka Results." />
+  
+  <meta name="keywords" content="Madhur Bazar, Madhur Satta Matka, Satta Matka, Madhur Matka, Kalyan Matka, Indian Matka, Madhur Bazar result, satta matka, madhur satta matka, madhur satta matka result, matka result, sattamatka, satta matta matka, satta matka result, satta matka kalyan, indian matka, matka satta, satta matka com, satta matka net, sattamataka143, result matka, satka matka, satta matka result, madhur day, madhur day result" />
+  <meta name="robots" content="index, follow" />
+  <meta name=googlebot content="index, follow, all /">
+  <meta property="og:title" content="Madhur Bazar | Madhur Satta Matka | Indian Matka | Madhur Matka" />
+  <meta property="og:description" content="Satta Matka madhur bazar satta matka expert super fast result Madhur Matka madhur bazar result indian matka Madhur Satta Matka Kalyan matka Results." />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="rating" content="general">
+  <meta name="author" content="madhur satta matka">
+  <meta name="copyright" content="madhur satta matka" />
+  <meta property="og:url" content="https://sattamatkajico.com"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:site_name" content="Madhur Satta Matka" />
+  <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+  <meta content=yes name=apple-mobile-web-app-capable>
+<meta content=yes name=apple-touch-fullscreen>
+<link rel=apple-touch-icon sizes=180x180 href="https://sattamatkajico.com/assets/dist/images/fav.ico"/>      
+  <link rel="canonical" href="https://sattamatkajico.com"/>
+  <link rel="alternate" href="https://sattamatkajico.com" hreflang="en-in" />
+  <link href="assets/dist/images/fav.ico" rel="icon" type="image/x-icon" />
+  <link rel="stylesheet" type="text/css" href="assets/style.css?v=24"/>
+  
+  <meta name="google-site-verification" content="BIZjmgN21sg80yMPfiNn4SidV409DHf3vxyGvN2Hxtw" />
+  
+  <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Madhur Bazar | Satta Matka | Madhur Matka | Madhur Result" />
+<meta name="twitter:description" content="Get Madhur Satta Matka, Madhur Bazar, Madhur Result, Kalyan, Madhur Matka, Matka Result, Madhur Morning, day, night Kalyan matka Updates" />
+<meta name="twitter:site" content="@sattamatkajico" />
+<meta name="twitter:creator" content="@sattamatkajico" />
+  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128290200-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128290200-1');
+</script>
+
+
+<script type=application/ld+json>
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "additionalType": "MADHUR BAZAR ", 
+  "name": "SATTAMATKAJICO",
+  "alternateName": "SATTA MATKA ",
+  "sameAs": "https://sattamatkajico.com/",
+  "url": "https://sattamatkajico.com/",
+  "potentialAction": {
+  "@type": "SearchAction",
+  "target": "https://sattamatkajico.com/search?q={search_term_string}madhursattamatka",
+  "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is Satta Matka?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Satta Matka is a popular lottery-based gambling game that originated in India. It involves betting on numbers and is widely played in cities like Mumbai"
+    }
+  },{
+    "@type": "Question",
+    "name": "How to play Madhur Satta Matka?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Madhur Satta Matka is played by selecting a set of numbers between 0 to 9. The game involves opening and closing times, and players bet on various combinations."
+    }
+  },{
+    "@type": "Question",
+    "name": "Where can I find live Satta Matka results?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You can find live Satta Matka results on websites like sattamatkajico.com which update results in real-time."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is Madhur Matka legal in India?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Satta is illegal in the country. However, online Satta Matka is legal. Most Indian states, betting games like Madhur Matka are illegal unless explicitly permitted."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I play Satta Matka online?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, there are multiple platforms where you can play Satta Matka online with real-time updates and secure payments."
+    }
+  }]
+}
+</script>
+ 
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK6HF4G5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div class="satta-matka-block_strt_adsen0">
+    <h1>SattaMatkaJiCo.Com</h1>
+    <h2>Satta Matka Madhur Fastest Results - Madhur Bazar, Madhur Satta Matka & Madhur Morning Result</h2>
+    <marquee class="marquee2" behavior="scroll">Welcome To Satta Matka Ji we are the most popular madhur bazar and satta matka website. We provide you Satta Matka Madhur Bazar, Kalyan Matka, Milan Satta, Rajdhani Matka, Time Bazar Super Fast Result, Free Guessing, Weekly Game, Panel Charts Etc. May you always win. </marquee>
+  </div>
+  <marquee class="marquee1" behavior="scroll" >&#2325;&#2354;&#2381;&#2351;&#2366;&#2339; &#2324;&#2352; &#2350;&#2343;&#2369;&#2352; &#2348;&#2366;&#2332;&#2366;&#2352; &#2348;&#2350;&#2381;&#2346;&#2352; &#2343;&#2350;&#2366;&#2325;&#2366; &#2309;&#2330;&#2370;&#2325; &#2332;&#2379;&#2396;&#2368; &#2346;&#2352; &#2325;&#2350;&#2366;&#2323; &#2354;&#2366;&#2326;&#2379;&#2306; 100% &#2347;&#2367;&#2325;&#2381;&#2360; 2 &#2323;&#2346;&#2344; 2 &#2332;&#2379;&#2396;&#2368; 4 &#2346;&#2340;&#2381;&#2340;&#2368; &#2360;&#2367;&#2352;&#2381;&#2347; &#2319;&#2325; &#2342;&#2367;&#2344; &#2350;&#2375;&#2306; &#2310;&#2346;&#2325;&#2366; &#2346;&#2370;&#2352;&#2366; &#2354;&#2377;&#2360; &#2325;&#2348;&#2352; &#2361;&#2379;&#2327;&#2366;, &#2350;&#2344;&#2368; &#2348;&#2376;&#2325; &#2327;&#2366;&#2352;&#2306;&#2335;&#2368; &#2319;&#2337;&#2357;&#2366;&#2306;&#2360; &#2330;&#2366;&#2352;&#2381;&#2332; 2500/- &#2350;&#2366;&#2340;&#2381;&#2352;, &#2309;&#2349;&#2368; &#2325;&#2377;&#2354; &#2325;&#2352;&#2375;<b> 06263314180 </b> >>> "&#2398;&#2381;&#2352;&#2368; &#2337;&#2375;&#2350;&#2379; &#2335;&#2381;&#2352;&#2366;&#2351;&#2354; &#2350;&#2366;&#2306;&#2327;&#2325;&#2352; &#2327;&#2366;&#2354;&#2368; &#2344;&#2366; &#2326;&#2366;&#2351;&#2375;&#2306; "sattamatkajico.com</marquee>
+  <div class="satta-matka-block_strt_adsen1">
+    <p>Madhur Satta Matka ❋ Madhur Bazar ❋ Super Fast Matka ❋ Madhur Satta Bazar ❋ Madhur Day ❋ Madhur Matka Results ❋ Madhur Satta Tips ❋ Satta Matka Result ❋ Kalyan Matka ❋ New Satta Matka ❋ Matka Game ❋ Satta Game ❋  Indian Satta Matka ❋ Dpboss Matka ❋ Madhur Result ❋ <a href=https://sattamatkajico.com/panna/madhur-morning-chart-record.html title="madhur morning panel chart">Madhur Morning Chart</a> ❋ Online Matka Result ❋ Satta Matka Tips ❋ Madhur Bazar Result ❋ Satta Matka Boss ❋ Madhur Bazar King ❋ Live Satta Matka Result ❋ <a href=https://sattamatkajico.com/panna/kalyan-chart-record.html title="kalyan panel chart">Kalyan Chart</a> ❋ Satta Matka Company ❋ Super Morning Satta Matka ❋ Satta Matka Ji ❋ Madhur Khabar ❋ Milan Satta Matka ❋ Daily Jackpot ❋ MadhurMorning ❋ Madhur Matka Guessing.</p>
+  </div>
+  
+    <div class="satta-matka-block_strt_adsen1" title="Madhur Matka">
+      <p>
+        sattamatkajico.com is a leading Madhur Satta Matka website, and it is most visited Satta website. Satta Matka is a game used to earn money. It is simple and easy to play. Madhur matka game is based on lottery system so there is no way to guess exact number of lottery so doesnт pay to anybody for guessing number. As Madhur Satta Bazar, Kalyan Matka Game is based on lottery system so there is no way to guess exact number of lottery so doesnт pay to anybody for guessing. Get all the chart zone SattaMatkaExpert Chart, Madhur Bazar, Kalyan Chart Milan Day Chart, Madhur Day Chart, Madhur Night Chart, Rajdhani Day Chart , Milan Night, Rajdhani Night Chart as well as Night Time Bazar for Main Mumbai Chart, Rukmani Chart ,New Mumbai Chart, Main Bazar Worli chart, Prabhat chart, Main Ratan Chart, Madhur Milan Satta Chart. Satta Matka Expert and Winner Get Good Amount of Money, and Also get perfect guessing and Tricks at New Main Mumbai Satta, Madhur Satta Matka, Milan Matka, Kalyan Matka By Our Expert Team Of Guessers. Get Live Updates for Madhur Satta Bazar or Madhur Day Night Matka Guessing Forum Where Our Experience gambling expert Helps You to Quickest Earnings. <a href=https://sattamatkajico.com/> sattamatkajico.com</a></p>
+  </div>
+    
+  <div class="satta-matka-block_strt_adsen22">
+    <span style="font-size:18px;""font color=" red"">मधुर बाजार लाये है सबसे भरोसेमंद सट्टा मटका ऑनलाइन प्ले ऐप वो भी<span style="font-size:22px;">
+        <font color="red">
+          फूल भाव
+        </font>
+      </span> में<br> नीचे दिए गए बटन पर क्लिक करके डाउनलोड कीजिए. <br><span class="blink" style="font-weight: 900;color: #000;font-size: 18px;">⇩⇩⇩</span><br>
+      <button onclick="window.location.href='https://kalyankhelo.in/'" class="refresh">
+        Click Here
+      </button>
+  </div>
+
+    <div class="menu3">
+<div class="live-result1">Today Matka Lucky Number <br> (<?php echo date("d/m/Y"); ?>)</div>
+<div class="marquee">
+<p>	MADHUR MORNING ➟ (7)<br><br>TIME BAZAR ➟ (4)<br><br>MADHUR DAY ➟ (1)<br><br>MILAN DAY ➟ (8)<br><br>RAJDHANI DAY ➟ (3)<br><br>KALYAN ➟ (6)<br><br>MADHUR NIGHT ➟ (0)<br><br>MILAN NIGHT ➟ (1)<br><br>RAJDHANI NIGHT ➟ (6)<br><br>MAIN BAZAR ➟ (5)<br><br> Thank You For Visiting <br>⬇ ⬇ ⬇<br>sattamatkajico.com.</p>
+	</div></div>
+
+  <div class="cushycms" id="live-result">
+    <div class="live-result">
+      <div style="font-style:normal;background : linear-gradient(to right, #D19D00, #FEDE7F, #D19D00); padding:1px;" title="Satta Matka Live Update"><b class='blink'>☞ </b> LIVE UPDATES <b class='blink'>☜ </b> </div>
+      <?php
+      // select all data
+      // select data for current page
+      // $thestime ="2020-09-20 00:3";
+
+
+      $thestime = date('Y-m-d H:i');
+      $cdate  = date('Y-m-d');
+      $ctime = date('H:i');
+      // $ctime ="00:3";
+
+      $current_day = date("D");
+      $query = "SELECT * FROM `live_games` order by featured DESC";
+      $stmt = $con->prepare($query);
+      $stmt->execute();
+
+      while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
+
+        $t_after = $row['t_after'];
+        $t_before = $row['t_before'];
+        $start = $row['time'];
+        $end = $row['endtime'];
+        $start_before = date("Y-m-d H:i", strtotime("-" . $t_after . " minutes", strtotime($start)));
+        $start_after = date("Y-m-d H:i", strtotime("+" . $t_before . " minutes", strtotime($start)));
+
+        $end_before = date("Y-m-d H:i", strtotime("-" . $t_after . " minutes", strtotime($end)));
+        $end_after = date("Y-m-d H:i", strtotime("+" . $t_before . " minutes", strtotime($end)));
+
+        $result = $row['result'];
+        if (($start_before <= $thestime && $start_after >= $thestime) or ($end_before <= $thestime && $end_after >= $thestime)) {
+
+          if ($ctime <= "01:00") {
+          } else {
+            $mdate = $row['modified'];
+            $Datesss = strtotime($mdate);
+            $newformat = date('Y-m-d', $Datesss);
+            $strip = $newformat;
+            $time1 = "00:00";
+            $time2 = "01:00";
+
+            if ($ctime >= $time1 && $ctime <= $time2) {
+              $result = $row['result'];
+            } else {
+              if ($strip >= $cdate) {
+                $result = $row['result'];
+              } else {
+                $result = "Loading...";
+              }
+            }
+          }
+          if ($result == null) {
+            $result = $row['result'];
+          }
+          $market = "<div style='background-color: whitesmoke; padding: 7px; border-bottom-width: 1px; border-bottom-color: silver; border-bottom-style: solid;'><span style='font-style:italic;font-size:24px; color:#0860D5;'>" . $row['mname'] . "</span><br />
+                     <span style='font-style:italic;font-size:25px;color:#000;font-family:Georgia;'>{$result}</span></br><input class='btn btn-sm btn-danger' style='height:auto; padding:0 12px; margin-top:7px; margin-bottom:8px; font-style:italic;' name='Refresh' id='Login' value='Refresh' type='submit' onclick='window.location.reload()''><br><span style='font-style:initial;font-size:24px;color:#B9000E;font-family:system-ui;'>" . $row['description'] . "</span></div>";
+
+          if ($current_day == 'Sun' && $row['sun'] == 'yes') {
+            echo $market;
+          } elseif ($current_day == "Fri" && $row['fri'] == 'yes') {
+            echo $market;
+          } elseif ($current_day == "Sat" && $row['sat'] == 'yes') {
+            echo $market;
+          } elseif ($current_day == "Mon" && $row['mon'] == 'yes') {
+            echo $market;
+          } elseif ($current_day == "Tue" && $row['tues'] == 'yes') {
+            echo $market;
+          } elseif ($current_day == "Thu" && $row['thu'] == 'yes') {
+            echo $market;
+          } elseif ($current_day == "Wed" && $row['wed'] == 'yes') {
+            echo $market;
+          }
+        }
+      }
+      $stmt = null;
+      // if ($row >= 1) {
+      //     echo "<input class='btn btn-sm btn-danger' style='height:auto; padding:0 12px; margin-top:7px; margin-bottom:8px; font-style:italic;' name='Refresh' id='Login' value='Refresh' type='submit' onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.reload()' '=''><br><span style='font-style:initial;font-size:24px;color:#B9000E;font-family:fantasy;'></span></div>";
+      // }
+
+      ?>
+      
+    </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+  <div class="result1">
+<div style="color:#000;font-size:19px;font-weight: 900;text-shadow:1px 1px #fff;">अब खेलिए सभी सट्टा मटका बाजार गेम ऑनलाइन ऐप पर <br><span style="font-size:22px;"> <font color="#FD0000">वो भी फूल भाव में </font> </span> <br> रोज खेलो रोज कमाओ अभी डाउनलोड करो</div>
+<div class="mp-btn"> <a href="https://mplay.store/apps/MP-Games/" rel="nofollow"><b class='blink'>☞ DOWNLOAD NOW</b></a>
+</div><br>
+<div style="color:#93FB04;font-size:21px;font-weight: 900;text-shadow:1px 1px #1C2F01;">100% Trusted App</div>
+</div> 
+
+<div class="satta-matka-block_strt_adsen22">
+    <span style="font-size:22px;"><font color="red">India's Most Trusted Gaming App Since 2011 - Jito India Stars</font></span><br>
+    <a href="https://cutt.ly/JitoIndiaApp/"><img src="/Marketing1%20(2).gif" loading="lazy" alt="Madhur Result" width="335" height="145" title="Madhur Matka"></a><br>
+    <span style="font-size:18px;" color=" red">Superfast Withdrawal
+      </span>
+  </div>
+  
+   <div class="satta-matka-block_strt_adsen22"style="border-top:#FFB80C 2px solid;border-left:#FFB80C 2px solid;border-right:#FFB80C 2px solid;">
+    <table width="100%" border="4">
+        <font color="black">
+          <font size="5">卐 बुकिंग चालू | बुकिंग चालू 卐</font><br><br><span style="color:#0C0C8A"> <font size="4">मधुर डे/नाईट, मिलन डे/नाईट, कल्याण, राजधानी डे/नाईट, मधुर मॉर्निंग बाजार में से किसी का भी लाइव रिजल्ट ओपन और क्लोज, पांना-पत्ती के साथ सीधा मुंबई मटका कंपनी से`लेना चाहते है तो कॉन्टैक्ट करें. </span><hr><span style=font-size:24px;color:brown;>
+             ADMIN SIR - 06263314180<br>
+              ADMIN SIR - 06263314180<hr>
+अडवांस रिजल्ट फीस- Rs 2000/- Per Game</span><hr>फ्री, डेमो दिखाओ, पहले विश्वास दिलाओ ऐसा बोलने वाले बिलकुल कॉल न करें, जिसको Satta Matka Fix Single Open Panna Jodi चाहिए केवल वही बस कॉल करें.<br>
+            <hr>
+    </table>
+  </div>
+
+  <div class="satta-matka-block_strt3">
+    ALL SATTA MATKA RESULTS
+  </div>
+  <div class="cushycms" id="LIVE MATKA RESULT LIST" style="color:navy;padding-left:1px; padding-right:1px; padding-top:1px; padding-bottom:1px;">
+    <div class="result" title="Madhur Result">
+      <?php
+      $query = "SELECT * FROM `market_sequence`";
+      $stmt = $con->prepare($query);
+      $stmt->execute();
+      $select_m_row = $stmt->fetch(PDO::FETCH_ASSOC);
+      $sequence = explode(',', $select_m_row['sequence']);
+      $sequence1 = array_reverse($sequence);
+
+      // include database connection
+      //include 'config/database.php';
+      // paginate records
+      // PAGINATION VARIABLES
+      // select data for current page
+      $query = "SELECT * FROM live_games WHERE id IN  (" . implode(',', $sequence1) . ")";
+      $stmt = $con->prepare($query);
+      $stmt->execute();
+      // this is how to get number of rows returned
+      $num = $stmt->rowCount();
+      // link to create record form
+      //check if more than 0 record found
+      if ($num > 0) {
+        while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
+          // extract row
+          // this will make $row['firstname'] to
+          // just $firstname only
+          $items[] = $row;
+        }
+        $sequence1 = array_reverse($sequence1, true);
+
+        foreach ($sequence1 as $seq) {
+
+          foreach ($items as $item) {
+            if ($seq == $item['id']) {
+
+              $time = date('h:i A', strtotime($item['time']));
+              $endtime = date('h:i A', strtotime($item['endtime']));
+
+
+              echo "<div class='line' style='background-color:{$item['bgcolor']};'>
+                 <span style='font-size:24px;'>
+                  <span style='color:{$item['mnc']};'>{$item['mname']}
+                  </span>
+                   <br />
+                  <span style='color:{$item['rc']};'>{$item['result']}
+                  </span>
+                  </span><br/> 
+                  <span style='font-size:14px;'>
+                  <span style='color:#804000;'>({$time} - {$endtime})  
+                     </span>
+                  </span>";
+              if ($item['description'] != "") {
+                echo "
+                    <HR>
+                 <pre style='color:{$item['dcolor']}; white-space: inherit; white-space: -moz-pre-wrap; white-space: -pre-wrap; white-space: -o-pre-wrap; word-wrap: break-word; '>{$item['description']}</pre>";
+              }
+              if($item['panelName'] && $item['panelLink']){
+                  echo "
+                  <br><span class='panel_btn'><a href='{$item['panelLink']}' alt='{$item['panelName']}'>{$item['panelName']}</a></span>";
+                }
+              echo " </font>
+              </div>";
+            }
+          }
+        }
+        $stmt = null;
+      }
+      // if no records found
+      else {
+        echo "<div class='alert alert-danger'>No records found.</div>";
+      }
+      ?>
+    </div>
+  </div>
+
+<div class="satta-matka-block_strt_adsen2">
+<span style="font-size:20px;"><font color="black">अगर आप खुद का बाजार चलाते हैं !<br> और उसे पूरी दुनिया को दिखाना चाहते है !<br> तो आज ही अपने बाजार का रिजल्ट हमारी साईट पर लगवाये सम्पर्क करें</font></span><hr><div class="angrytext"><font color="Red"><span style="font-size:22px;"> Call ⇛ <big>☎ 07354711585</big></font></span></div><font></span><hr><div class="angrytext"><font color="Red"><span style="font-size:22px;"> WhatsApp ⇛ <big>☎ 07354711585</big></font></span></div><hr>
+</div>
+
+  <!---star line start---->
+  <div class="satta-matka-block_strt_login" style="text-align: center;">
+    <div style="font-weight: 700;
+                  color: #000;
+                  background : GOLDENROD;
+                  padding: 12px;
+                  border-radius: 1px;
+                  font-size: 18px;">MADHUR STARLINE RESULT
+    </div>
+    <table>
+      <thead>
+        <tr style="
+    border: solid 2px #aa6360;
+">
+          <th>Time</th>
+          <th>Result</th>
+          <th>Time</th>
+          <th>Result</th>
+        </tr>
+      </thead>
+      <tbody>
+        <?php
+
+        $query = "SELECT * FROM starline";
+        $stmt = $con->prepare($query);
+        $stmt->execute();
+        // this is how to get number of rows returned
+        $num = $stmt->rowCount();
+        // link to create record form
+        //check if more than 0 record found
+        if ($num > 0) {
+          while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
+            // extract row
+            // this will make $row['firstname'] to $row['value']
+            // just $firstname only
+            echo "
+<tr>
+<td>11:15 AM</td>
+<td>{$row['value1']}</td>
+<td>03:15 PM</td>
+<td> {$row['value8']}</td>
+</tr>
+<tr>
+<td>12:15 PM</td>
+<td> {$row['value2']}</td>
+<td>04:15 PM</td>
+<td> {$row['value7']}</td>
+</tr>
+<tr>
+<td>01:15 PM</td>
+<td> {$row['value3']}</td>
+<td>05:15 PM</td>
+<td> {$row['value6']}</td>
+</tr>
+<tr>
+<td>02:15 PM</td>
+<td> {$row['value4']}</td>
+<td>06:15 PM</td>
+<td> {$row['value5']}</td>
+</tr>
+
+";
+          }
+          $stmt = null;
+        }
+        // if no records found
+        else {
+          echo "<div class='alert alert-danger'>No records found.</div>";
+        }
+        ?>
+      </tbody>
+    </table>
+  </div>
+  </div>
+
+  <div class="setSize2">
+    <font color="RED">
+      <i>&raquo;
+      </i>
+      <a href="panna/madhur-starline-chart-record.html"><u><b>Madhur Star Line Panna Record</b></u>
+      </a>
+    </font>
+  </div>
+
+  <!---start line end--->
+
+  <br>
+  <div style="border-top:#FFB80C 2px solid;border-left:#FFB80C 2px solid;border-right:#FFB80C 2px solid;">
+    <table width="100%" border="4">
+      <th colspan="4" class="quadrat">
+        <font color="black">
+          <font size="4">☢ NOTIFICATION ☢ <br><br>(<span style="color:#0C0C8A">कल्याण और मधुर बाजार </span>)<br> सिर्फ़ एक गेम बदलेगा आपकी जिंदगी<br>जो आज तक हमसे जुडा है वो सिर्फ़ एक बार में मालामाल हुआ है<br>आज कल्याण और मधुर बाजार में<br><span style=font-size:24px;color:brown;>
+              2 ओपन 2 जोडी 2 पत्ती</span><br>क्या आप भी सिर्फ़ एक दिन में अचूक जोडी खेलकर पूरा लोस कवर करके लखपती बनना चाहोगे हमसे संपर्क करें.<br>आपका मेहनत का पैसा है और खून पसीने का पैसा इसे व्यर्थ मत गवाहों. <br>सही जगह पैसे को लगाओ ताकि आप कुछ बन सको और हमसे संपर्क करें.<br>
+            <hr>
+            <a href="tel:06263314180" class="refresh1">Click Here For Call
+            </a><br>
+            <a href="https://api.whatsapp.com/send?phone=+916263314180&amp;text=I%27m%20interested"" class=" refresh1">
+              Click To Chat<br><span style=font-size:24px;color:pink;> Whatsapp</span>
+            </a>
+            <hr>
+      </th>
+    </table>
+  </div>
+
+  <div class="satta-matka-block_strt_login" style="text-align: center;">
+    <div style="font-weight: 700;
+                  color: #000;
+                  background : GOLDENROD;
+                  padding: 12px;
+                  border-radius: 1px;
+                  font-size: 18px;">❋ SATTA MATKA LOGIN ❋
+    </div>
+    <button onclick="window.location.href='https://sattamatkajico.com/guessing-form/login.php'" class="refresh">
+      LOGIN
+    </button> <br><span class="blink" style="font-weight: 700;color: #000;font-size: 18px;"> New Member Register Here Free<br>⇩⇩⇩</span><br>
+    <button onclick="window.location.href='https://sattamatkajico.com/guessing-form/register.php'" class="refresh">
+      REGISTER
+    </button>
+  </div>
+
+  <div class="satta-matka-block_strt_gm_zone" title="Madhur Satta Matka Guessing">
+    <p style="border-top-left-radius:1px;border-top-right-radius: 1px;padding-top: 10px;padding-bottom: 10px;margin-top: 0px;background-color:GOLDENROD !important;color: #000;font-size: 18px;font-weight: 800;">❋ DAILY GAMES ZONE ❋
+    </p>
+    <div class="cushycms game-links" id="Kalyan & Mumbai">
+      <font color="Red">
+        <a href="https://sattamatkajico.com/guessing-form/guessing-form.php"> GUESSING FORUM
+        </a>
+      </font>
+    </div>
+    <div class="cushycms game-links" id="Kalyan & Mumbai">
+      <font color="Red">
+        <a href="https://sattamatkajico.com/open-to-close.php"> FIX ANK OPEN TO CLOSE FOR ALL MARKETS
+        </a>
+      </font>
+    </div>
+    <div class="cushycms game-links" id="Kalyan & Mumbai">
+      <font color="Red">
+        <a href="https://sattamatkajico.com/khatri-favourite.html"> KHATRI FAVOIRITE PANEL CHART
+        </a>
+      </font>
+    </div>
+    <div class="cushycms game-links" id="Kalyan & Mumbai">
+      <font color="Red">
+        <a href="https://sattamatkajico.com/weekly-jodi-panna.html"> WEEKLY JODI & PANNA
+        </a>
+      </font>
+    </div>
+    <div class="cushycms game-links" id="Kalyan & Mumbai">
+      <font color="Red">
+        <a href="https://sattamatkajico.com/satta-matka-chart.html"> ALL SATTA MATKA CHARTS
+        </a>
+      </font>
+    </div>
+      <div class="cushycms game-links" id="Kalyan & Mumbai">
+        <font color="Red">
+          <a href="https://shrimatka.com/"> GET SUPER FAST RESULT NOW 
+          </a>
+        </font>
+      </div>
+  </div>
+
+  <div class='matka_livee bg41'>FIX ANK OPEN TO CLOSE<br>FREE PUBLIC SEVA
+    <div class="satta-matka-block_strt_adsen2">
+      <?php
+      include 'config/database.php';
+
+      $query = "SELECT * FROM opentoclose";
+      $stmt = $con->prepare($query);
+      $stmt->execute();
+      // this is how to get number of rows returned
+      $num = $stmt->rowCount();
+      // link to create record form
+      //check if more than 0 record found
+      if ($num > 0) {
+        while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
+          // extract row
+          // this will make $row['firstname'] to $row['value']
+          // just $firstname only
+
+          $color = $row['mnc'] == "#A00247" ? "WHITE"  : "#000000";
+          $adsDisplay = "";
+          if ($row['id']  % 2 == 0) {
+            if ($row['id'] == 2) {
+              $adsDisplay = $ads1;
+            }
+            if ($row['id'] == 4) {
+              $adsDisplay = $ads2;
+            }
+            if ($row['id'] == 6) {
+              $adsDisplay = $ads3;
+            }
+            if ($row['id'] == 8) {
+              $adsDisplay = $ads1;
+            }
+          } else {
+            $adsDisplay = "";
+          }
+
+
+          echo "
+<div style='background-color:{$row['mnc']}; text-align:center; border-bottom: 2px solid {$row['mnc']}; font-weight:bold;font-style:normal;line-height:1.3em;font-size:28px; margin-bottom:4px;'>
+<span style='color:{$color};'><u>{$row['mname']}</u><br />
+<span style='font-size:20px;'>OTC - {$row['open']}<br />
+JODI - {$row['jodi']}<br />
+PANNA- {$row['patti']}<br />
+SUCCESS -:</span></span></div>
+";
+          echo $adsDisplay;
+        }
+        $stmt = null;
+      }
+      // if no records found
+      else {
+        echo "<div class='alert alert-danger'>No records found.</div>";
+      }
+      ?>
+    </div>
+  </div>
+  <br>
+  <div class='matka_live bg4'>Weekly Jodi Chart</div>
+  <div class="matka_live bg4" align="center">
+    <table border="1">
+      <tr>
+        <td>1=</td>
+        <td>12</td>
+        <td>17</td>
+        <td>15</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>2=</td>
+        <td>24</td>
+        <td>29</td>
+        <td>23</td>
+        <td>28</td>
+      </tr>
+      <tr>
+        <td>3=</td>
+        <td>38</td>
+        <td><span class="red">33</span></td>
+        <td>35</td>
+        <td>30</td>
+      </tr>
+      <tr>
+        <td>4=</td>
+        <td>45</td>
+        <td>40</td>
+        <td>41</td>
+        <td>46</td>
+      </tr>
+      <tr>
+        <td>5=</td>
+        <td>52</td>
+        <td>57</td>
+        <td>54</td>
+        <td>59</td>
+      </tr>
+      <tr>
+        <td>6=</td>
+        <td>63</td>
+        <td>68</td>
+        <td>62</td>
+        <td>67</td>
+      </tr>
+      <tr>
+        <td>7=</td>
+        <td>76</td>
+        <td>71</td>
+        <td>79</td>
+        <td>74</td>
+      </tr>
+      <tr>
+        <td>8=</td>
+        <td>80</td>
+        <td>85</td>
+        <td>82</td>
+        <td>87</td>
+      </tr>
+      <tr>
+        <td>9=</td>
+        <td>91</td>
+        <td>96</td>
+        <td>90</td>
+        <td>95</td>
+      </tr>
+      <tr>
+        <td>0=</td>
+        <td>01</td>
+        <td>06</td>
+        <td>07</td>
+        <td>02</td>
+      </tr>
+    </table>
+  </div>
+  </div>
+  <br>
+  <div class='matka_live bg4'>Weekly Patti Chart</div>
+  <div class="matka_live bg4" align="center">
+    <table border="1">
+      <tr>
+        <td>1=</td>
+        <td>560</td>
+        <td>146</td>
+        <td>226</td>
+        <td>290</td>
+      </tr>
+      <tr>
+        <td>2=</td>
+        <td>147</td>
+        <td>589</td>
+        <td>237</td>
+        <td>688</td>
+      </tr>
+      <tr>
+        <td>3=</td>
+        <td>139</td>
+        <td>337</td>
+        <td>779</td>
+        <td>238</td>
+      </tr>
+      <tr>
+        <td>4=</td>
+        <td>130</td>
+        <td>347</td>
+        <td>220</td>
+        <td>149</td>
+      </tr>
+      <tr>
+        <td>5=</td>
+        <td>230</td>
+        <td>249</td>
+        <td>159</td>
+        <td>780</td>
+      </tr>
+      <tr>
+        <td>6=</td>
+        <td>123</td>
+        <td>169</td>
+        <td>367</td>
+        <td>330</td>
+      </tr>
+      <tr>
+        <td>7=</td>
+        <td>340</td>
+        <td>179</td>
+        <td>278</td>
+        <td>467</td>
+      </tr>
+      <tr>
+        <td>8=</td>
+        <td>440</td>
+        <td>288</td>
+        <td>378</td>
+        <td>189</td>
+      </tr>
+      <tr>
+        <td>9=</td>
+        <td>199</td>
+        <td>289</td>
+        <td>450</td>
+        <td>379</td>
+      </tr>
+      <tr>
+        <td>0=</td>
+        <td>550</td>
+        <td>235</td>
+        <td>190</td>
+        <td>280</td>
+      </tr>
+    </table>
+  </div>
+  </div>
+
+  <div class="cushycms panel-heading7" id="All Panna Records">
+    <font color="RED">
+      <font color="White">All Panna Records
+      </font>
+    </font>
+  </div>
+  <div class="cushycms" id="All Panna Records List" style="background-color: #EBDEF0; color:black; padding:1px; text-align : center;
+                                                         font-weight : 900;
+                                                         font-size : large;margin-bottom:5px;">
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/time-bazar-chart-record.html">
+          Time Bazar Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/kalyan-chart-record.html">
+          Kalyan Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/kalyan-night-chart-record.html">
+          Kalyan Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/main-ratan-chart-record.html">
+          Main Bazar Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/madhur-morning-chart-record.html">Madhur Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/madhur-day-chart-record.html">Madhur Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/madhur-night-chart-record.html">Madhur Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/milan-day-chart-record.html">Milan Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/milan-night-chart-record.html">Milan Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/rajdhani-day-chart-record.html">
+          Rajdhani Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/rajdhani-night-chart-record.html">
+          Rajdhani Night Panna Record
+        </a>
+      </font>
+    </div>
+  </div>
+
+  <div class="cushycms panel-heading7" id="All Panna Records">
+    <font color="RED">
+      <font color="White">Extra Panna Records
+      </font>
+    </font>
+  </div>
+  <div class="cushycms" id="All Panna Records List" style="background-color: #EBDEF0; color:black; padding:1px; text-align : center;
+                                                         font-weight : 900;
+                                                         font-size : large;margin-bottom:5px;">
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/prabhat-chart-record.html">
+          Prabhat Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/मारोती-डे-chart-record.html">
+          Tahalka Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/madhuri-chart-record.html">
+          Madhuri Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/madhuri-night-chart-record.html">
+          Madhuri Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/mumbai-morning-chart-record.html">
+          Mumbai Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/gujarat-morning-chart-record.html">
+          Gujarat Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/aastha-day-chart-record.html">
+          Aastha Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/aastha-night-chart-record.html">
+          Aastha Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/maharashtra-day-chart-record.html">
+          Maharashtra Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/syndicate-chart-record.html">
+          Syndicate Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/riya-bazar-day-chart-record.html">
+          Riya Bazar Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/riya-bazar-night-chart-record.html">
+          Riya Bazar Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/super-golden-day-chart-record.html">
+          Super Golden Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/mahakal-day-chart-record.html">
+          Mahakal Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/mahakal-night-chart-record.html">
+          Mahakal Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/main-kuber-chart-record.html">
+          Main Kuber Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/mumbai-ratan-chart-record.html">
+          Mumbai Ratan Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/main-mumbai-ratan-chart-record.html">
+          Main Mumbai Ratan Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/milan-main-morning-chart-record.html">
+          Milan Main Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/milan-main-morning-night-chart-record.html">
+          Milan Main Morning Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/new-sapna-day-chart-record.html">
+          New Sapna Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/new-sapna-night-chart-record.html">
+          New Sapna Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/time-bazar-evening-chart-record.html">
+          Time Bazar Evening Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="/panna/karnatak-day-chart-record.html">
+          Karnatak Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/karnatak-night-chart-record.html">
+          Karnatak Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/super-morning-chart-record.html">
+          Super Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/miraj-day-chart-record.html">
+          MiRAJ Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/miraj-night-chart-record.html">
+          MiRAJ Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/capital-morning-chart-record.html">
+          Capital Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/capital-evening-chart-record.html">
+          Capital Evening Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/madhubala-chart-record.html">
+          Madhubala Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/madhubala-night-chart-record.html">
+          Madhubala Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/kalyan-matka-day-chart-record.html">
+          Kalyan Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/raatrani-chart-record.html">
+          Raatrani Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/dubai-market-day-chart-record.html">
+          Dubai Market Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/dubai-market-night-chart-record.html">
+          Dubai Market Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/kalyan-delux-chart-record.html">
+          Kalyan Delux Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/man-mumbai-night-chart-record.html">
+          Man Mumbai Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/milan-golden-day-chart-record.html">
+          Super Bazar Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/milan-golden-night-chart-record.html">
+          Super Bazar Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/main-time-bazar-night-chart-record.html">
+          Main Time Bazar Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/kamdhenu-chart-record.html">
+          Kamdhenu Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/maruti-morning-chart-record.html">
+          Maruti Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/maruti-night-chart-record.html">
+          Maruti Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/five-star-chart-record.html">
+          Five Star Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>
+          &raquo;
+        </i>
+        <a href="panna/premium-day-chart-record.html">
+          Premium Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/kalyan-madhur-day-chart-record.html">
+        Kalyan Madhur Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/kalyan-madhur-night-chart-record.html">
+        Kalyan Madhur Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/nandi-bazar-chart-record.html">
+        Nandi Bazar Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/one-day-chart-record.html">
+        One Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/navi-bombay-chart-record.html">
+        Navi Bombay Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/gujarat-milan-chart-record.html">
+        Gujarat Milan Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/new-bhagyashri-day-chart-record.html">
+        New Bhagyashri Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/magic-morning-chart-record.html">
+        Magic Morning Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/magic-day-chart-record.html">
+        Magic Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/magic-night-chart-record.html">
+        Magic Night Panna Record
+        </a>
+      </font>
+    </div>
+     <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/calcutta-night-chart-record.html">
+        Calcutta Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/main-rajdhani-chart-record.html">
+        Main Rajdhani Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/lakhpati-day-chart-record.html">
+        Lakhpati Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/lakhpati-night-chart-record.html">
+        Lakhpati Night Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/super-milan-day-chart-record.html">
+        Super Milan Day Panna Record
+        </a>
+      </font>
+    </div>
+    <div class="setSize2">
+      <font color="RED">
+        <i>&raquo;
+        </i>
+        <a href="panna/super-milan-night-chart-record.html">
+        Super Milan Night Panna Record
+        </a>
+      </font>
+    < गेम है, जो कि भारत में खेला जाता है। इस गेम में नंबर का चयन करना होता है और उस पर सट्टा लगाना होता है। यह गेम किस्मत पर आधारित है और इसमें विभिन्न विभिन्न प्रारूप होते हैं, जैसे कि सिंगल, जोड़ी, पन्ना, और संगम।.<p></div>
+
+<div class="Blog2">
+<h4>सट्टा मटका भारत में इतना लोकप्रिय क्यों है?</h4>
+<p>सट्टा मटका एक लोकप्रिय गेम है जो ऑनलाइन और मोबाइल एप के माध्यम से खेला जाता है। इस खेल में 0 से लेकर 9 तक कि संख्या को चुन कर दांवलगाना होता है। जिसके बाद लकी ड्रा के माध्यम से नंबर निकाला जाता है, अगर आपका द्वारा चुनी गई संख्या निकल आती है तो विजेता घोषित किया जाएग. गेम जीतने वाले खिलाड़ी को लगाई गई राशि कि तुलना में 10 गुना अधिक पैसा मिलता है।.<p></div>
+
+<div class="Blog2">
+<h4>मधुर सट्टा मटका के रिजल्ट को कैसे देखे?</h4>
+<p>सभी तरह के मटका गेम के रिजल्ट को हमारी वेबसाइट के माध्यम से देख सकते है। मने तेज़ और सटीक परिणामों के लिए एक प्रतिष्ठा बनाई है, जिस से घर बैठे और कही से भी सट्टा मटका के रिजल्ट को देख सकते है। हमारी वेबसाइट उन लोगो के बीच लोकप्रिय है जो कि मटका गेम को खेलते है। हमारी वेबसाइट सट्टा मटका के क्षेत्र में नंबर 1 वेबसाइट, और हमारे पास सभी बाज़ारो के लिए आवश्यक जानकारी है, जैसे की हमारी वेबसाइट पर मधुर बाजार, मिलन मटका, राजधानी सट्टा मटका, मेन बाज़ार, कल्याण, मेन मुंबई, इण्डियन मटका, कल्याण नाईट, टाइम बाजार जैसे और भी बाजार का रिजल्ट देख सकते हैं।<p></div>
+
+<div class="Blog2">
+<h4>मधुर मटका रिजल्ट कहाँ देखे?</h4>
+<p>मधुर मटका रिजल्ट देखने के लिए आपको गूगल मैं मधुर रिजल्ट सर्च करके हमारी वेबसाइट sattamatkajico.com पर जा कर मधुर और सट्टा मटका गेम के सारे रिजल्ट मिल जाएँगे यहाँ आपको सट्टा रिजल्ट के अलावा गैसिंग फॉर्म और सट्टा मटका पैनल चार्ट भी मिलेगा. अगर आप मधुर का रिजल्ट सबसे पहले देखना चाहते है तो आप हमारी वेबसाइट पर क्लिक करें यहाँ आपको दुनिया मैं सबसे पहले मटका रिजल्ट मिलेगा. मधुर रिजल्ट दिन मै तीन बार जारी किया जाता है जिसमें से सबसे पहले मधुर मॉर्निंग है जिसका ओपन टाइम ११:३० और क्लोज टाइम १२:३० होता हैं. दूसरा मधुर डे आता है जिसका ओपन टाइम ०१:३० और क्लोज टाइम ०२:३० होता है. तीसरा मधुर नाईट आता है जिसका ओपन टाइम ०८:३० और क्लोज टाइम १०:३० होता हैं. इस प्रकार से मधुर के तीनो रिजल्ट शो होते है.</p>
+
+    <div class="Blog2">
+      <p>
+         sattamatkajico.com is also known as satta matka 143 also a world of Experts Guessing Forum website and one of the most Visited Satta Site amongst people engaged in Satta Matka, madhur satta bazar, matka bazar, Time Bazar, Milan Day/Night, Madhur Satta Matka, Kalyan Matka, Rajdhani Day/Night Satta, Mumbai main And We Provide Super Fast and Fastest matka results Apart From Other Players in Industry Our Content Helps You To Big wins. We Provide Live Updates, Guessing Forum Where Our Experts Helps You To Quickest Earnings. Free Open and close for Public Welfare Weekly Jodi & Panna with Lifetime Golden win Chart in 143 SPECIAL ZONE You will Get to know Evergreen Tricks Zone and old charts of Kalyan Matka & Mumbai Matka Of 1972 to 2012 With King Maker Khatri Favorite Panna also know as Mortgage leaf and behalf of CHARTS ZONE We Provide You Kalyan Chart Mumbai Chart Teen Patti Chart Milan day Milan Night Chart & Rajdhani Day & Night Jodi Chart With Penal patti leafs. satta to name a few. Our website has come out as an undisputed leader in this arena since we started working over years ago. And we attribute this success to our consistent efforts in publishing the results of all Satka Matka game at the earliest and quicker Credit than all other players in this market.
+      </p>
+    </div>
+
+    <div class="Blog2">
+      <p>
+         madhur satta matka | madhur bazar result | satta matka result | madhur matka | milan matka | kalyan matka | madhur matka results | morning milan satta matka | madhur satta matka result | fix matka | satta matka bazar | madhur bazar | indian satta matka | fast matka results | Rajdhani matka | madhur day matka | bombay bazar | super fast matka | madhur night matka | satta matka boss |<a href="https://sattamatkajico.com/panna/madhur-day-chart-record.html" title="Madhur Chart"> madhur chart</a>| milan bazar | madhur morning | live satta matka result | satta matka company | fast matka | madhur matka results | kalyan matka result | online matka result | Madhur Satta King | satta batta | dpboss matka | boss matka | main mumbai result | matka king | time bazar | samay bazar | madhur bazar results | mard matka | new mumbai matka | satta bazar | ratan main bazar | 143 satta matka | maharashtra satta bazar | kalyan night | Indian Matka | satta matka madhur | madhur result | madhur bazar guessing | madhur milan satta matka.
+      </p>
+    </div>
+
+    <div class="Blog2">
+      <div class="ex1">
+        <p><strong>Satta Matka</strong> is a number game based on how excellent you are at guessing the winning number. In this number system, you can guess a variety of types such as Open, Close, Jodi, Panel, Sangam, Jackpot among others. Here You Will Get <strong>Madhur Matka</strong>, <strong>Madhur Satta Matka</strong>, <strong>Madhur Bazar</strong>, <strong>Matka Result</strong>, <strong>Milan Matka</strong>, <strong>Kalyan Matka</strong>, <strong>Madhur Day Result</strong>.</p>
+        <p>We provide 100% fix game from Bookee which includes all these games – which played in <strong>satta matka number</strong>, madhur bazar, satta matta matka. Download our app and get free matka tips, ideas, charts and many more. Experience the joy of playing Matka Boss, which is form of betting, mostly popular betting game of the country. <strong>सट्टा मटका</strong> Satta Matka is an Indian Matka Game. SattaMatka is also reffered as Matka Satta, Satka Matka, Madhur Matka, Satta Matta Matka, Satta Batta, SattaMatka143, Satta Ka Matka, Indian Satta, Madhur Morning, Satta Market, Madhur Satta Bazar. Get fastest Satta Matka Result, Matka guessing, daily updated Matka charts, Kalyan Matka tips and Matka game only on SattaMatkaz.</p>
+        <p><strong>Madhur Satta Matka</strong> is The Most Popular Lottery game, Madhur Matka guessing, Madhur result, Madhur Bazar Result, Kalyan Matka, DPBoss, Boss Matka, Madhur Morning, Tara Matka, Manipur Day Matka, Kalyan fix Jodi, Matka Jodi fix, sure Matka, <strong>Madhur Day</strong> Satka Matka, Madhur fix, Wap Matka, Matka Web, Satta Motka, Wapka Matka, Madhur Open, Matka tips, Golden Matka, fix Satta Matka and Matka fix number.</p>
+        <p>number of Satta Matka websites have introduced that release the results of Satta Matka very quickly. One of the best-known websites that extract the results is sattamatkajico.com. Kalyan Matka, Madhur Satta Matka is the most popular and leading game of Satta Matka. Kalyan matka started from 1972 as per the record it also founded by Ratan Khatri with Main mumbai matka. Satta Matka Kalyan depends on irregular number determination and offers. Any way to win you need the winning number.</p>
+      </div>
+    </div>
+    
+    <div class="disclaimer">
+    <br>⛔ Disclaimer ⛔ <br>
+       Viewing This WebSite Is On Your Own Risk.. All The information Shown On Website Is Based on Numerology and Astrology for Information Purposes. All Data Collected For Internet. We Are Not Associated with Any Illegal Matka Business or Gamblers. We Warn You That Matka Gambling in Your Country May be Banned or Illegal. We Are Not Responsible For Any Issues or Scam. We Respect All Country Rules/Laws. If You Not Agree With Our Site Disclaimer. Please Quit Our Site Right Now. Copying/Promoting/Publishing Any of Our Content in Any Type Of Media or Other Source is Illegal and against Law. 
+  <br>
+  <p style="color: red;">(sattamatkajico.com)
+  </p>
+  </div>
+  </div>
+
+     <div class="cushycms" id="Contact Detials" style="background : linear-gradient(to right, #EEB300, #fff, #EEB300);color: black;border: #FFB80C solid 2px;border-style:solid;font-size:20px;font-weight:900;text-align:center;margin-top:10px;padding: 5px;border-radius:7px;">
+      <a href="https://sattamatkajico.com/guessing-form/guessing-form.php" title="Guessing Forum">
+        <span style="color:black">Forum
+        </span>
+      </a> &raquo;
+      <a href="https://sattamatkajico.com/" title="SATTA MATKA">
+        <span style="color: black;">Home
+        </span>
+      </a> &raquo;
+      <a href="https://sattamatkajico.com/satta-matka-results.php" title="SATTA MATKA">
+        <span style="color: black;">Satta Matka
+        </span>
+      </a> &raquo;
+      <br>
+      <a href="https://sattamatkajico.com/open-to-close.php" title="satta matka fix">
+        <span style="color:black">Datefix
+        </span>
+      </a>
+      &raquo;
+      <a href="https://sattamatkajico.com/about.php" title="about satta matka">
+        <span style="color:black">About
+        </span>
+      </a>
+      &raquo;
+      <a href="https://sattamatkajico.com/blog/" title="satta matka blog">
+        <span style="color:black">Blog
+        </span>
+      </a>
+      &raquo;
+      <a href="https://sattamatkajico.com/sitemap.xml" title="sitemap">
+        <span style="color:black">Sitemap
+        </span>
+      </a>
+      &raquo;
+      <a href="https://sattamatkajico.com/indian-matka.php" title="Indian Matka">
+        <span style="color:black">Indian Matka
+        </span>
+      </a>
+      <hr />
+      <font color="black">
+        <font size="6">
+          <span style="color: black;">sattamatkajico.com
+          </span>
+        </font>
+        <br />
+        All Rights Reseved&reg;
+        <br />
+        (2017-2022)
+        <br />
+        Contact -
+        <span style="color:red">ADMIN
+        </span>
+        <br />
+        <font color="black" size="6">Call : XXXXXXXXXX
+        </font>
+        <br />
+        <font color="red" size="4">Powered by: SATTA MATKA
+        </font>
+      </font>
+    </div>
+
+    <p>
+      <font color="RED">
+        <a class="cushycms" id="Refresh Button" style="position:fixed; bottom:35px;right:5px;">
+          <input onclick="window.location.reload()" style="background-color: darkgoldenrod; color: white; border-width:1px; border-color: black; border-style: inset; font-weight: 700; font-style: italic; font-size: large; border-radius: 8px;padding: 5px 10px;box-shadow: 0px 0px 5px #000000d6;" type="button" value="Refresh" />
+        </a>
+      </font>
+      <a href="https://kingjack.in/" class="telegram" target="_blank">MATKA PLAY</a>
+      </font>
+    </p>
+    
+    <div class="whatsapp"><a href="https://chat.whatsapp.com/EuQtgYgdxhJ4wPWkOkecUM"> WhatsApp </a></div>
+<div class="Blog2">
+    <a href="//www.dmca.com/Protection/Status.aspx?ID=a07dd3d0-2e48-4e74-852b-db35ed806f02" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_2.png?ID=a07dd3d0-2e48-4e74-852b-db35ed806f02"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+    </div>    
+</body>
+</html>
