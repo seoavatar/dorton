@@ -19,7 +19,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"/>
         <link rel="shortcut icon" href="https://res.cloudinary.com/dz5gcv4fc/image/upload/v1749650016/tss_rqbu2r.png"/>
         <link rel="canonical" href="https://www.amikjombang.ac.id/"/>
-        <link rel="amphtml" href="https://ampsungailimau.pages.dev/"/>
+        <link rel="amphtml" href="https://ampamikjombang.pages.dev/"/>
         <!-- start preload -->
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id"/>
         <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id"/>
@@ -573,10 +573,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://ampsungailimau.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
+                                        <a href="https://ampamikjombang.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://ampsungailimau.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
+                                        <a href="https://ampamikjombang.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -2911,7 +2911,7 @@
                                         <img class="pdp-mod-common-image gallery-preview-panel__image" src="https://res.cloudinary.com/dz5gcv4fc/image/upload/v1749649440/naga_draodk.jpg" data-pagespeed-url-hash="831972836" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-pagespeed-url-hash="3296026465" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://ampsungailimau.pages.dev/">
+                                        <a href="https://ampamikjombang.pages.dev/">
                                             <img style="width: 90%;" src="https://res.cloudinary.com/dlxpcnxhl/image/upload/v1748328528/DAFTAR_sqhk3p.webp" data-pagespeed-url-hash="3649143032" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-pagespeed-url-hash="3649143032" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                         </a>
                                     </p>
@@ -2961,12 +2961,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.amikjombang.ac.id/">SLOT MAXWIN</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://ampsungailimau.pages.dev/">
+                                                    <a href="https://ampamikjombang.pages.dev/">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN SLOT GACOR</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://ampsungailimau.pages.dev/" target="_blank">
+                                                    <a href="https://ampamikjombang.pages.dev/" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR LINK GACOR</span></span>
                                                         </button>
